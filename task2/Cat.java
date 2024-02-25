@@ -1,4 +1,4 @@
-package oop.task2;
+package task2;
 
 public class Cat extends Animal {
     public Cat(String name, int age) {

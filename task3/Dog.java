@@ -1,4 +1,4 @@
-package oop.task3;
+package task3;
 
 public class Dog extends Animal {
     private String breed;

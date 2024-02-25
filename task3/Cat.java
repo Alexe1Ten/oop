@@ -1,4 +1,4 @@
-package oop.task3;
+package task3;
 
 public class Cat extends Animal {
     private boolean isIndoor;

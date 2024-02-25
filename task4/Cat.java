@@ -1,4 +1,4 @@
-package oop.task4;
+package task4;
 
 class Cat extends Animal {
     @Override

@@ -1,4 +1,4 @@
-package oop.task3;
+package task3;
 
 public class Animal {
     private String name;
